@@ -29,13 +29,13 @@ const About = () => {
                             <Row className=" align-items-start p-2 my-details rounded">
                                 {/* Description */}
                             Hi there! I am <strong>&nbsp;Alona Shot</strong>
-                                <br />A passionate programmer, born in Ukraine and brought up in Israel. I am a Junior Front End Developer with Html, Css JavaScript, React.js as my tech stack.
+                                <br />A passionate programmer, born in Ukraine and brought up in Israel. I am a Junior Front-End Developer with HTML, CSS JavaScript and React.js as my tech stack.
                             <br />
-                            In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
+                            In 2016, I completed Web Programer course in HackerU hi-tech college in Ramat-Gan.
                             <br />
                             Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                             <br />
-                            I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+                            I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.
                             <br /> <br />
                             </Row>
                             <Row>
@@ -47,17 +47,17 @@ const About = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://drive.google.com/file/d/1fT8ef24_gxSyH-v4u9sHr51pRkiHnCPY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-success">My Resume</Button>
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://github.com/kitxomka" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-dark">GitHub</Button>
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://www.linkedin.com/in/anand-kumar-jha-745798a4/" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.linkedin.com/in/alena-shot-14410989/" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-info">LinkedIn</Button>
                                         </a>
                                     </div>

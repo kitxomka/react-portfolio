@@ -1,16 +1,14 @@
 .logo {
     width: 25%;
+    font-size: 2em;
+    margin-left: 30px;
+    font-family: 'Langar', cursive;
   }
   
   .nav-theme {
     background-color: #101018f8;
     font-size: 20px;
   }
-  
-  /* .animate-navbar {
-    box-shadow: 1px 1px 1px #222;
-    animation: moveDown 0.5s ease-in-out;
-  } */
   
   @keyframes moveDown {
     from {
