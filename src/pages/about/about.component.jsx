@@ -6,7 +6,7 @@ import Image from 'react-bootstrap/Image'
 import Button from 'react-bootstrap/Button'
 
 
-import Profile from '../../assets/img/profile/profile.webp'
+import Profile from '../../assets/img/profile/profile.jpg'
 
 import './about.style.css'
 
@@ -47,7 +47,7 @@ const About = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1fT8ef24_gxSyH-v4u9sHr51pRkiHnCPY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://drive.google.com/file/d/1zvRNmFBUtbZKfQ-_pl17H8VQNW0lOohP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-success">My Resume</Button>
                                         </a>
                                     </div>
