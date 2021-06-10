@@ -29,11 +29,11 @@ const About = () => {
                             <Row className=" align-items-start p-2 my-details rounded">
                                 {/* Description */}
                             Hi there! I am <strong>&nbsp;Alona Shot</strong>
-                                <br />A passionate programmer, born in Ukraine and brought up in Israel. I am a Junior Front-End Developer with HTML, CSS JavaScript and React.js as my tech stack.
+                                <br />A passionate programmer, born in Ukraine and brought up in Israel. I am a Junior Front-End Developer with HTML, CSS, JavaScript, and React.js as my tech stack.
                             <br />
-                            In 2016, I completed Web Programer course in HackerU hi-tech college in Ramat-Gan.
+                            In 2016, I completed a Web Programmer course in HackerU hi-tech college in Ramat-Gan.
                             <br />
-                            Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
+                            Working with the clients, my goal is always driven towards providing amazing experiences with the best level of quality and service to them.
                             <br />
                             I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.
                             <br /> <br />
@@ -47,7 +47,7 @@ const About = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1stFVq_ale74ZqjzlLOnTzBx1ANPnCQnj/view" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://drive.google.com/file/d/1pWL9CKKRbHe-oGRATYS-SdsNI7pyqrBH/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-success">My Resume</Button>
                                         </a>
                                     </div>
