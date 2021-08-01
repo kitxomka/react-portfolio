@@ -130,19 +130,25 @@ export const skills = {
         skillName: "Node Js",
       },
       {
-        link: "",
+        link: "https://www.typescriptlang.org/",
+        imgAltText: "TypeScript",
+        imgSrc: L_TYPESCRIPT,
+        skillName: "TypeScript",
+      },
+      {
+        link: "https://docs.mongodb.com/manual/",
         imgAltText: "MongoDB",
         imgSrc: L_MONGODB,
         skillName: "MongoDB",
       },
       {
-        link: "",
+        link: "https://www.php.net/",
         imgAltText: "Php",
         imgSrc: L_PHP,
         skillName: "Php",
       },
       {
-        link: "",
+        link: "https://wordpress.com/",
         imgAltText: "WordPress",
         imgSrc: L_WORDPRESS,
         skillName: "WordPress",
@@ -159,6 +165,7 @@ export const skills = {
         imgSrc: L_PHOTOSHOP,
         skillName: "Photoshop CC",
       },
+      
       
     ]
     

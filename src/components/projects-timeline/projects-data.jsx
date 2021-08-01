@@ -1,10 +1,24 @@
 import L_ReactToDoList from "../../assets/img/projects/react_todo.png";
 import L_ReactKetoRecipes from "../../assets/img/projects/react_keto_recipes.png";
 import L_ReactPortfolio from "../../assets/img/projects/react_portfolio.png";
+import L_TypeScriptCalculator from "../../assets/img/projects/typescript-calculator.png";
 
 export const projects = [
     {
         id: '1',
+        projectName: 'React TypeScript Calculator App',
+        date: "10/06/2021",
+        imgSrc: L_TypeScriptCalculator,
+        imgAltText: "React TypeScript Calculator App",
+        description: "This is a calculator",
+        link : "http://alonashot.top/react-typescript-calculator/build/#/",
+        code: "https://github.com/kitxomka/react-typescript-calculator",
+        features: ['Make a simple calculations'],
+        techUsed: ['React', 'TypeScript'],
+
+    },
+    {
+        id: '2',
         projectName: 'React Keto Recipes Site',
         date: "28/04/2021",
         imgSrc: L_ReactKetoRecipes,
@@ -17,7 +31,7 @@ export const projects = [
 
     },
     {
-        id: '2',
+        id: '1',
         projectName: 'React ToDo App',
         date: "12/03/2021",
         imgSrc: L_ReactToDoList,
@@ -29,7 +43,7 @@ export const projects = [
         techUsed: ['React', 'Material UI'],
     },
     {
-        id: '3',
+        id: '4',
         projectName: 'The Portfolio',
         date: "20/02/2021",
         imgSrc: L_ReactPortfolio,
