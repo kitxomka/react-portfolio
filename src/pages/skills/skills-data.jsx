@@ -19,6 +19,7 @@ import L_JQUERY from "../../assets/img/skills/jquery.svg"
 import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg"
 import L_MYSQL5 from "../../assets/img/skills/mysql-5.svg"
 import L_PHOTOSHOP from "../../assets/img/skills/photoshop-cc.svg"
+import L_REDUX from "../../assets/img/skills/redux.svg"
 
 
 
@@ -31,6 +32,12 @@ export const skills = {
           imgAltText: "React JS",
           imgSrc: L_REACT,
           skillName: "React JS",
+        },
+        {
+          link: "https://redux.js.org/",
+          imgAltText: "Redux",
+          imgSrc: L_REDUX,
+          skillName: "Redux",
         },
         {
           link: "https://styled-components.com/",

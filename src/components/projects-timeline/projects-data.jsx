@@ -27,7 +27,7 @@ export const projects = [
         link : "http://alonashot.top/react_keto_recipes/build/#/",
         code: "https://github.com/kitxomka/react_keto_recipes",
         features: ['Make and enjoy delicious food', 'Styled with  Material-UI', 'Respoisive Design'],
-        techUsed: ['React', 'Material UI'],
+        techUsed: ['React', 'Redux', 'Redux-Toolkit' , 'Material UI'],
 
     },
     {
