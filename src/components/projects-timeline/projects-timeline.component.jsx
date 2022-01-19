@@ -21,7 +21,6 @@ const ProjectsTimeline = () => {
                     {projects.map((project, index) => (
                         <>
                             <ImageEvent className="text-center" key={`${project.projectName}${index}`}
-                                
                                 src={project.imgSrc} alt={project.imgAltText} date={project.date}>
                                 <div className="d-flex justify-content-between flex-column mt-1">
                                     <div>
@@ -53,7 +52,7 @@ const ProjectsTimeline = () => {
                                         </Accordion>
                                     </div>
                                     <div className="d-flex justify-content-between flex-nowrap text-center">
-                                        {!!project.link ? <UrlButton href={project.link} target="_blank"> SEE LIVE</UrlButton> : null}     
+                                        {!!project.link ? <UrlButton href={project.link} target="_blank">SEE LIVE</UrlButton> : null}     
                                         {!!project.code ? <UrlButton href={project.code} target="_blank"> SOURCE CODE</UrlButton>   : null}                
                                     </div>
                                 </div>   

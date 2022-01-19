@@ -11,7 +11,6 @@ export const projects = [
         imgSrc: L_TypeScriptCalculator,
         imgAltText: "React TypeScript Calculator App",
         description: "This is a calculator",
-        link : "http://alonashot.top/react-typescript-calculator/build/#/",
         code: "https://github.com/kitxomka/react-typescript-calculator",
         features: ['Make a simple calculations'],
         techUsed: ['React', 'TypeScript'],

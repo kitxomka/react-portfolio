@@ -20,7 +20,7 @@ import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg"
 import L_MYSQL5 from "../../assets/img/skills/mysql-5.svg"
 import L_PHOTOSHOP from "../../assets/img/skills/photoshop-cc.svg"
 import L_REDUX from "../../assets/img/skills/redux.svg"
-
+import L_SQLITE from "../../assets/img/skills/sqlite.svg"
 
 
 
@@ -113,11 +113,18 @@ export const skills = {
 
     databases: [
       {
+        link: "https://www.sqlite.org/index.html",
+        imgAltText: "SQLite",
+        imgSrc: L_SQLITE,
+        skillName: "SQLite",
+      },
+      {
         link: "https://www.mysql.com/",
         imgAltText: "MYSQL-5",
         imgSrc: L_MYSQL5,
         skillName: "MYSQL-5",
       },
+      
     ],
 
     versionControl: [
