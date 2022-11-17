@@ -57,7 +57,7 @@ const About = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://www.linkedin.com/in/alena-shot-14410989/" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://www.linkedin.com/in/alona-shot-14410989/" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-info">LinkedIn</Button>
                                         </a>
                                     </div>

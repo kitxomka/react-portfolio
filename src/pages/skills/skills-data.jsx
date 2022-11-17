@@ -21,6 +21,8 @@ import L_MYSQL5 from "../../assets/img/skills/mysql-5.svg"
 import L_PHOTOSHOP from "../../assets/img/skills/photoshop-cc.svg"
 import L_REDUX from "../../assets/img/skills/redux.svg"
 import L_SQLITE from "../../assets/img/skills/sqlite.svg"
+import L_SHAREPOINT from "../../assets/img/skills/sharepoint.svg" 
+import L_POWER_BI from "../../assets/img/skills/power-bi.svg"
 
 
 
@@ -74,6 +76,12 @@ export const skills = {
           imgAltText: "CSS 3",
           imgSrc: L_CSS3,
           skillName: "CSS3",
+        },
+        {
+          link: "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+          imgAltText: "SharePoint",
+          imgSrc: L_SHAREPOINT,
+          skillName: "SharePoint",
         },
         {
           link: "https://react-bootstrap.github.io/",
@@ -154,6 +162,12 @@ export const skills = {
         imgAltText: "MongoDB",
         imgSrc: L_MONGODB,
         skillName: "MongoDB",
+      },
+      {
+        link: "https://powerbi.microsoft.com/en-au/",
+        imgAltText: "Power BI",
+        imgSrc: L_POWER_BI,
+        skillName: "PowerBI",
       },
       {
         link: "https://www.php.net/",

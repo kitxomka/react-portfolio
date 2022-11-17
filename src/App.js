@@ -14,6 +14,7 @@ import Skills from './pages/skills/skills.component'
 import ProjectsTimeline from './components/projects-timeline/projects-timeline.component'
 import Contact from './pages/contact/contact.component'
 import Footer from './components/footer/footer.component'
+// import Experience from './pages/experience/experience.component'
 import { particlesOptions } from './particlesOptions'
 
 import './App.css'
@@ -53,8 +54,8 @@ const App = () => {
         </Container>
       </div>
 
-      {/* Experience Section
-      <div>
+      {/* Experience Section */}
+      {/* <div>
         <Container className="container-box rounded">
           <Fade duration={500}><hr />
             <Experience />
