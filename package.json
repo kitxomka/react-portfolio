@@ -19,6 +19,7 @@
     "react-tilt": "^0.1.4",
     "styled-components": "^5.2.1",
     "typewriter-effect": "^2.17.0",
+    "uuid": "^8.3.2",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
