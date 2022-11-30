@@ -28,20 +28,20 @@ export const projects = [
     techUsed: ["React", "Redux", "Redux-Toolkit", "Material UI"],
   },
 
-  {
-    id: uuidv4(),
-    projectName: "L_3Questions",
-    // date: "02/01/2022",
-    imgSrc: L_3Questions,
-    imgAltText: "3 Questions",
-    description:
-      "The app asks 3 questions of a different type in random order, and at the end you find out how many answers you got right.",
-      link: "http://codesandbox.io/s/github/kitxomka/3questions-test",
-    // link: "http://188.166.71.102/3questions/",
-    code: "https://codesandbox.io/s/github/kitxomka/3questions-test",
-    features: ["Styled with  Material-UI", "Respoisive Design"],
-    techUsed: ["React", "Redux", "Material UI"],
-  },
+//   {
+//     id: uuidv4(),
+//     projectName: "L_3Questions",
+//     // date: "02/01/2022",
+//     imgSrc: L_3Questions,
+//     imgAltText: "3 Questions",
+//     description:
+//       "The app asks 3 questions of a different type in random order, and at the end you find out how many answers you got right.",
+//       link: "http://codesandbox.io/s/github/kitxomka/3questions-test",
+//     // link: "http://188.166.71.102/3questions/",
+//     code: "https://codesandbox.io/s/github/kitxomka/3questions-test",
+//     features: ["Styled with  Material-UI", "Respoisive Design"],
+//     techUsed: ["React", "Redux", "Material UI"],
+//   },
 
   {
     id: uuidv4(),
