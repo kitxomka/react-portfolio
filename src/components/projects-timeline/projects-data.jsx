@@ -5,7 +5,7 @@ import L_TypeScriptCalculator from "../../assets/img/projects/typescript-calcula
 import L_FilmApp from "../../assets/img/projects/film_app.png";
 import L_PplFinder from "../../assets/img/projects/ppl-finder.png";
 import L_DressMe from "../../assets/img/projects/dress-me.png";
-import L_3Questions from "../../assets/img/projects/3-questions.png";
+import L_AngularToDo from "../../assets/img/projects/angular-todo.png";
 
 import { v4 as uuidv4 } from "uuid";
 
@@ -28,24 +28,21 @@ export const projects = [
     techUsed: ["React", "Redux", "Redux-Toolkit", "Material UI"],
   },
 
-//   {
-//     id: uuidv4(),
-//     projectName: "L_3Questions",
-//     // date: "02/01/2022",
-//     imgSrc: L_3Questions,
-//     imgAltText: "3 Questions",
-//     description:
-//       "The app asks 3 questions of a different type in random order, and at the end you find out how many answers you got right.",
-//       link: "http://codesandbox.io/s/github/kitxomka/3questions-test",
-//     // link: "http://188.166.71.102/3questions/",
-//     code: "https://codesandbox.io/s/github/kitxomka/3questions-test",
-//     features: ["Styled with  Material-UI", "Respoisive Design"],
-//     techUsed: ["React", "Redux", "Material UI"],
-//   },
+  {
+    id: uuidv4(),
+    projectName: "Angular ToDo App",
+    imgSrc: L_AngularToDo,
+    imgAltText: "Angular ToDo App",
+    description:"Users log in and can see and maintain their todos",
+    link: "http://188.166.71.102/angular-todo/",
+    code: "https://github.com/kitxomka/angular-todo",
+    features: ["Log in page", "Respoisive Design"],
+    techUsed: ["Angular", "Material"],
+  },
 
   {
     id: uuidv4(),
-    projectName: "L_DressMe",
+    projectName: "Dress Me",
     // date: "27/12/2021",
     imgSrc: L_DressMe,
     imgAltText: "Dress me",
@@ -61,7 +58,7 @@ export const projects = [
   },
   {
     id: uuidv4(),
-    projectName: "L_PplFinder",
+    projectName: "People Finder",
     // date: "20/08/2021",
     imgSrc: L_PplFinder,
     imgAltText: "People List",
@@ -81,7 +78,7 @@ export const projects = [
   },
   {
     id: uuidv4(),
-    projectName: "L_FilmApp",
+    projectName: "Film App",
     // date: "18/08/2021",
     imgSrc: L_FilmApp,
     imgAltText: "Film app",

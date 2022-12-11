@@ -28,7 +28,9 @@ const ProjectsTimeline = () => {
                                             <Card>
                                                 <Accordion.Toggle  as={Card.Header} eventKey="0" className="p-2 text-center accordian-main">PROJECT DETAILS</Accordion.Toggle>
                                                 <Accordion.Collapse eventKey="0" className="text-left">
+                                                    
                                                     <Card.Body>
+                                                        <div className='project-title'>{project.projectName}</div>
                                                         <strong>Description :</strong> {project.description}
                                                         <hr />
                                                         <strong>Features:</strong>

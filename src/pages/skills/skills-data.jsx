@@ -23,6 +23,8 @@ import L_REDUX from "../../assets/img/skills/redux.svg"
 import L_SQLITE from "../../assets/img/skills/sqlite.svg"
 import L_SHAREPOINT from "../../assets/img/skills/sharepoint.svg" 
 import L_POWER_BI from "../../assets/img/skills/power-bi.svg"
+import L_Angular from "../../assets/img/skills/angular.svg"
+
 
 
 
@@ -156,6 +158,12 @@ export const skills = {
         imgAltText: "TypeScript",
         imgSrc: L_TYPESCRIPT,
         skillName: "TypeScript",
+      },
+      {
+        link: "https://angular.io/",
+        imgAltText: "Angular",
+        imgSrc: L_Angular,
+        skillName: "Angular",
       },
       {
         link: "https://docs.mongodb.com/manual/",
